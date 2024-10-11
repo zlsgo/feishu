@@ -1,6 +1,6 @@
 module github.com/zlsgo/feishu
 
-go 1.23.0
+go 1.18
 
 require github.com/sohaha/zlsgo v1.7.16
 
